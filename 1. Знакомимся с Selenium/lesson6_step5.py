@@ -1,3 +1,5 @@
+# Задание: поиск элемента по тексту в ссылке
+
 import math, time
 from selenium import webdriver
 from selenium.webdriver.common.by import By

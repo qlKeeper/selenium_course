@@ -1,3 +1,5 @@
+# Задание: поиск элементов с помощью Selenium
+
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 import time 
